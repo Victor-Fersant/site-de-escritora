@@ -183,7 +183,7 @@ hr {
   padding-top: 20px;
 }
 
-/*Obras em Destaque*/
+/*Página Obras em Destaque*/
 .pagina2 {
   font-size: 32px;
 }
@@ -252,7 +252,7 @@ hr {
   font-size: 25px;
 }
 
-/*Biografia Completa*/
+/*Página Biografia Completa*/
 .margin {
   margin: 0px;
   margin-bottom: 60px;
@@ -294,7 +294,7 @@ hr {
   border-left: 4px solid #912682;
 }
 
-/*História de Vida*/
+/*Página História de Vida*/
 .his {
   text-align: center;
   padding-top: 15px;
@@ -328,7 +328,7 @@ hr {
   background-color: rgb(255, 157, 157);
 }
 
-/*Frases Marcantes*/
+/*Página Frases Marcantes*/
 .fm {
   text-align: center;
   font-size: 23px;

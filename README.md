@@ -45,15 +45,13 @@ Durante o desenvolvimento deste projeto, foram praticados conceitos importantes 
 
 ---
 
-## Melhorias Futuras
+## Print da página para Desktop:
 
-- Adicionar animações e transições
-- Melhorar acessibilidade
-- Implementar menu responsivo
-- Refinar o design visual
-- Publicar versão online com GitHub Pages
+![print](public/Print_Home.JPG)
 
----
+## Print da página para Mobile:
+
+![print](public/Print_Mobile.JPG)
 
 ## Autor
 
